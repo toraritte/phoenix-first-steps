@@ -1,0 +1,1 @@
+<p>lofa meg <%= String.capitalize @name %> </p>
